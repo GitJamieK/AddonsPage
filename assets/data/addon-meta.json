@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-03T00:00:00.000Z",
-  "source": "Manual seed with CurseForge page fallbacks",
+  "generatedAt": "2026-05-03T04:11:11.380Z",
+  "source": "CurseForge Core API",
   "addons": {
     "oathbound": {
       "projectId": 1465925,
@@ -31,6 +31,7 @@
       "projectId": 1519225,
       "slug": "addonsearch-addon-search",
       "pageUrl": "https://www.curseforge.com/wow/addons/addonsearch-addon-search",
+      "fileId": 7960995,
       "fileName": "AddonSearch-v0.4.zip",
       "releaseType": "Release",
       "latestVersion": "v0.4",
@@ -45,7 +46,7 @@
         "Classic 1.15.8",
         "TBC 2.5.5"
       ],
-      "updatedAt": "2026-04-21T00:00:00.000Z",
+      "updatedAt": "2026-04-21T14:04:28.043Z",
       "updatedLabel": "Updated Apr 21, 2026",
       "factLabels": [
         "Latest v0.4",
@@ -55,8 +56,10 @@
       ]
     },
     "hidechatbuttonreborn": {
+      "projectId": 1511417,
       "slug": "hidechatbuttonreborn",
       "pageUrl": "https://www.curseforge.com/wow/addons/hidechatbuttonreborn",
+      "fileId": 7923989,
       "fileName": "HideChatButtonReborn-v1.1.zip",
       "releaseType": "Release",
       "latestVersion": "v1.1",
@@ -69,7 +72,7 @@
       "gameVersionLabels": [
         "Classic 1.15.8"
       ],
-      "updatedAt": "2026-04-14T00:00:00.000Z",
+      "updatedAt": "2026-04-14T02:31:49.163Z",
       "updatedLabel": "Updated Apr 14, 2026",
       "factLabels": [
         "Latest v1.1",
